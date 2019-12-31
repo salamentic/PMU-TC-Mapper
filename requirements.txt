@@ -1,6 +1,6 @@
+ipython-blocking==0.2.0
 pandas
 xlrd
-ipython_blocking
 bqplot
 ipympl
 ipyvolume
