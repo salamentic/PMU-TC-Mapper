@@ -4,7 +4,7 @@ dependencies:
   - appmode
   - pandas
   - xlrd
-  - ipython_blocking
+  - ipython-blocking
   - bqplot
   - ipympl
   - ipyvolume
