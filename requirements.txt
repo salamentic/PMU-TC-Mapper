@@ -1,3 +1,8 @@
 pandas
 xlrd
 ipython_blocking
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
