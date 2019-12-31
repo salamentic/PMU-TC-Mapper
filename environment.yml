@@ -2,3 +2,11 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - pandas
+  - xlrd
+  - ipython_blocking
+  - bqplot
+  - ipympl
+  - ipyvolume
+  - scipy
+  - voila
